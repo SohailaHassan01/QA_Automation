@@ -20,7 +20,7 @@ This project automates critical test scenarios using Java, Selenium, TestNG, POM
 ## 🛠 Setup Instructions
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Sohaila-Hassan/QA_Automation.git    
+   git clone https://github.com/SohailaHassan01/QA_Automation.git    
    cd QA_Automation
 
 2. Install Dependencies:
