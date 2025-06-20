@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sprints Test Suite">
+    <test name="E-commerce Tests">
+        <classes>
+            <class name="Test_Cases.InvalidSearchTest"/>
+            <class name="Test_Cases.ProductSearchTest"/>
+            <class name="Test_Cases.AddToCartTest"/>
+            <class name="Test_Cases.CheckoutTest"/>
+
+        </classes>
+    </test>
+</suite>
